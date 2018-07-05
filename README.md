@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/hekuang/hekuang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/hekuang/hekuang.github.io/blob/master/6.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.html) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-[强化学习]（https://github.com/hekuang/hekuang.github.io/blob/master/6.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.html）
+[强化学习]（https://github.com/hekuang/hekuang.github.io/blob/master/6.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.html)
 
 - Bulleted
 - List
